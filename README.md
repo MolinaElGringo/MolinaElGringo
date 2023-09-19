@@ -6,10 +6,10 @@ Future programmer
 
 j'adore les Lamas et les jeux video.
 
-![LAMA](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Ffr%2Fs%2Fphotos%2Flama&psig=AOvVaw1thrdjbrb_iJ1aIPykGz0N&ust=1695213123769000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD11ZLXtoEDFQAAAAAdAAAAABAE)
+![LAMA](https://images.unsplash.com/photo-1589182337358-2cb63099350c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80)
 
 
-![Gaming](https://www.google.com/url?sa=i&url=https%3A%2F%2Fici.radio-canada.ca%2Fohdio%2Fpremiere%2Femissions%2Fmatins-sans-frontieres%2Fsegments%2Freportage%2F407014%2Fjeux-video-collectionneur&psig=AOvVaw2YNr_COZJGQcElHcYwETjW&ust=1695213148915000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCLyp7XtoEDFQAAAAAdAAAAABAI)
+![Gaming](https://idshop.ca/cdn/shop/collections/video-game-review_2400x.jpg?v=1641066209)
 
 
 ### Testing
@@ -20,3 +20,19 @@ This is ~~strikethrough~~.
 This is `inline code`.
 > This is a quote
 
+| Header 1 | Header 2 | Header 3 |
+| -------- | :------: | -------: |
+| Cell 1   |  Cell 2  |   Cell 3 |
+| Cell 4   |  Cell 5  |   Cell 6 |
+
+```java
+System.out.println("Hello World!");
+```
+
+```javascript
+console.log("Hello World!");
+```
+
+```python
+print("Hello World!")
+```
