@@ -1,6 +1,6 @@
 # Sebastian
 
-Future programmer 
+Future programmer
 
 ## Hobby
 
@@ -11,8 +11,11 @@ j'adore les Lamas et les jeux video.
 
 ![Gaming](https://idshop.ca/cdn/shop/collections/video-game-review_2400x.jpg?v=1641066209)
 
+Je joue aussi de la guitare🎸
 
 ### Testing
+
+j'adore le markdown 🦙🦙🦙
 
 _This is italic_ and _this as well_.
 **This is bold** and **this as well**.
